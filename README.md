@@ -5,6 +5,12 @@ It allows you to create, edit, delete, and search notes — all stored locally i
 
 ---
 
+## 📍 Live Demo
+
+👉 [Visit My Notes App](https://my-notes-8x4z.onrender.com/)  
+
+---
+
 ## 🚀 Features
 - ✍️ **Create Notes** — Add a title and details for each note.
 - 🛠 **Edit Notes** — Update existing notes.
@@ -35,4 +41,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/ravi-aluri/Notes-App.git
 cd Notes-App
+
 
