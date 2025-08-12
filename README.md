@@ -33,5 +33,6 @@ It allows you to create, edit, delete, and search notes — all stored locally i
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/Notes-App.git
+git clone https://github.com/ravi-aluri/Notes-App.git
 cd Notes-App
+
